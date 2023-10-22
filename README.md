@@ -1,3 +1,3 @@
-# Lens Bindings
+# Lens Privy Bindings
 
-Lens SDK bindings for Privy
+Privy bindings for Lens SDK
